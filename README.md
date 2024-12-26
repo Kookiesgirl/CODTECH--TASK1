@@ -1,10 +1,11 @@
-NAME - P.VIVISHA CATHERIN
-COMPANY - CODTECH IT SOLUTIONS
-ID - CT08FJF
-DOMAIN - MACHINE LEARNING
-DURATION - DECEMBER TO JANUARY 2025
+NAME : P.VIVISHA CATHERIN
+COMPANY : CODTECH IT SOLUTIONS
+ID : CT08FJF
+DOMAIN : MACHINE LEARNING
+DURATION : DECEMBER TO JANUARY 2025
 
 Project Overview: Housing Price Prediction
+
 This project is a simple web application that predicts housing prices based on user-input features like square footage, number of bedrooms, and location. It uses HTML and CSS for the user interface and Python (Flask) for the back-end, which handles the machine learning model.
 
 Key Features:
